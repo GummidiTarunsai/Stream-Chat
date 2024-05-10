@@ -20,3 +20,6 @@ A Realtime Chat Application using Firebase and React Js.
    npm run dev
 
    ```
+"# Stream-Chat" 
+"# Stream-Chat" 
+"# Stream-Chat" 
